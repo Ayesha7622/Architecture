@@ -10,4 +10,5 @@ class AppColors {
   Color blueAccentColor = Colors.blueAccent;
   static Color indianRedColor = Color(0xffCD5C5C);
   static Color lightCoralColor = Color(0xffF08080);
+  static Color cyanBlueColor = Color(0xff6495ED);
 }
